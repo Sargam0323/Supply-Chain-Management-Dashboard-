@@ -19,8 +19,8 @@ Provides an overview of key supply chain KPIs such as Warehouse Utilization %, I
 
 ![Supply Chain Performance Summary](./Supply%20Chain%20Performance%20Summary.png)
 
-## Supply Chain Performance Summary
-![https://github.com/Sargam0323/Supply-Chain-Management-Dashboard-/tree/main](./supply-chain-performance-summary.png)
 
 2. Lost Revenue Insights and Supplier Risk Analysis
-Focuses on analyzing lost revenue from backorders and supplier performance impact. Displays Lost Revenue by Supplier and Category, Current vs. Adjusted Fulfillment Rate, and provides actionable recommendations for improving supply chain performance. 
+Focuses on analyzing lost revenue from backorders and supplier performance impact. Displays Lost Revenue by Supplier and Category, Current vs. Adjusted Fulfillment Rate, and provides actionable recommendations for improving supply chain performance.
+![Image Name]
+(Image%20File%20Name.png)
