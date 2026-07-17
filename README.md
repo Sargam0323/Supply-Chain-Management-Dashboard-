@@ -16,6 +16,10 @@ OptiChain is a Power BI-based dashboard solution designed to analyze supply chai
 # Supply Chain Performance Summary
 Provides an overview of key supply chain KPIs such as Warehouse Utilization %, Inventory Turnover Ratio, Lead Time by Category, and visualizes trends in Transportation Costs, Sales Units by Year, Inventory Levels, and Backorders. Supply Chain Performance Summary
 ## Supply Chain Performance Summary
+
+![Supply Chain Performance Summary](./Supply%20Chain%20Performance%20Summary.png)
+
+## Supply Chain Performance Summary
 ![https://github.com/Sargam0323/Supply-Chain-Management-Dashboard-/tree/main](./supply-chain-performance-summary.png)
 
 2. Lost Revenue Insights and Supplier Risk Analysis
