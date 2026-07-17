@@ -23,4 +23,4 @@ Provides an overview of key supply chain KPIs such as Warehouse Utilization %, I
 2. Lost Revenue Insights and Supplier Risk Analysis
 Focuses on analyzing lost revenue from backorders and supplier performance impact. Displays Lost Revenue by Supplier and Category, Current vs. Adjusted Fulfillment Rate, and provides actionable recommendations for improving supply chain performance.
 ![Image Name]
-(Image%20File%20Name.png)
+(Lost%20Revenue%20Insights%20and%20Supplier%20Risk%20Analysis.png)
